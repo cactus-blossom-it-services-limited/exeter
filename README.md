@@ -6,6 +6,7 @@ https://cactus-blossom-it-services-limited.github.io/exeter/
 <h3>How to build the above site (Mode d'emploi)</h3>
 
 Pour preparer votre environnment informatique, commencez ici:
+
 https://www.gatsbyjs.org/tutorial/part-zero/
 
 Ensuite on peut cloner le référentiel.
