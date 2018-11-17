@@ -12,4 +12,6 @@ Ensuite on peut cloner le référentiel.
 
 Ensuite vous serez prêt à suivre les tutoriels:
 
+https://www.gatsbyjs.org/docs/
+
 https://www.gatsbyjs.org/docs/how-gatsby-works-with-github-pages/
